@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Contentstack" verbose="1" >
+  <test name="Smoke Test suite" >
+    <classes>
+      <class name="ContentStack.PageTest.HomepageTest"/>
+      <class name="ContentStack.PageTest.FeaturePageTest"/>
+      <class name="ContentStack.PageTest.ContactUsTest"/>
+      <class name="ContentStack.PageTest.PartnersPageTest"/>
+      <class name="ContentStack.PageTest.PricingPageTest"/>
+      <class name="ContentStack.PageTest.FAQsPageTest"/>
+      <class name="ContentStack.PageTest.DocsPageTest"/>
+      <class name="ContentStack.PageTest.ROICalculatorPageTest"/>
+      <class name="ContentStack.PageTest.SignInPageTest"/>
+      <class name="ContentStack.PageTest.TechnologyPageTest"/>
+    </classes>
+ </test>
+</suite>

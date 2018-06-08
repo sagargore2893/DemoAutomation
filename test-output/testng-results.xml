@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Contentstack" duration-ms="252383" started-at="2018-06-08T05:06:16Z" finished-at="2018-06-08T05:10:28Z">
+    <groups>
+    </groups>
+    <test name="Smoke Test suite" duration-ms="252383" started-at="2018-06-08T05:06:16Z" finished-at="2018-06-08T05:10:28Z">
+      <class name="ContentStack.PageTest.DocsPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.DocsPageTest@18be83e4]" name="setDriver" is-config="true" duration-ms="7123" started-at="2018-06-08T10:38:25Z" finished-at="2018-06-08T10:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="verifyOverviewLinkTest()[pri:0, instance:ContentStack.PageTest.DocsPageTest@18be83e4]" name="verifyOverviewLinkTest" duration-ms="2699" started-at="2018-06-08T10:38:32Z" finished-at="2018-06-08T10:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOverviewLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.DocsPageTest@18be83e4]" name="closeBrowser" is-config="true" duration-ms="67" started-at="2018-06-08T10:38:35Z" finished-at="2018-06-08T10:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.DocsPageTest -->
+      <class name="ContentStack.PageTest.PartnersPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="setDriver" is-config="true" duration-ms="8711" started-at="2018-06-08T10:37:13Z" finished-at="2018-06-08T10:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyContentUnderSolutionPartnerSectionTest()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="VerifyContentUnderSolutionPartnerSectionTest" duration-ms="2129" started-at="2018-06-08T10:37:22Z" finished-at="2018-06-08T10:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContentUnderSolutionPartnerSectionTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="closeBrowser" is-config="true" duration-ms="196" started-at="2018-06-08T10:37:24Z" finished-at="2018-06-08T10:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="setDriver" is-config="true" duration-ms="7629" started-at="2018-06-08T10:37:24Z" finished-at="2018-06-08T10:37:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyContentUnderTechnologyPartnerSectionTest()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="VerifyContentUnderTechnologyPartnerSectionTest" duration-ms="1961" started-at="2018-06-08T10:37:32Z" finished-at="2018-06-08T10:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContentUnderTechnologyPartnerSectionTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="closeBrowser" is-config="true" duration-ms="2079" started-at="2018-06-08T10:37:34Z" finished-at="2018-06-08T10:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="setDriver" is-config="true" duration-ms="8561" started-at="2018-06-08T10:37:36Z" finished-at="2018-06-08T10:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyPartnersSectionsTest()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="VerifyPartnersSectionsTest" duration-ms="1983" started-at="2018-06-08T10:37:45Z" finished-at="2018-06-08T10:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPartnersSectionsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.PartnersPageTest@cc285f4]" name="closeBrowser" is-config="true" duration-ms="86" started-at="2018-06-08T10:37:47Z" finished-at="2018-06-08T10:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.PartnersPageTest -->
+      <class name="ContentStack.PageTest.SignInPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.SignInPageTest@4b9e13df]" name="setDriver" is-config="true" duration-ms="7489" started-at="2018-06-08T10:38:44Z" finished-at="2018-06-08T10:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="validationTest()[pri:0, instance:ContentStack.PageTest.SignInPageTest@4b9e13df]" name="validationTest" duration-ms="2355" started-at="2018-06-08T10:38:52Z" finished-at="2018-06-08T10:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.SignInPageTest@4b9e13df]" name="closeBrowser" is-config="true" duration-ms="64" started-at="2018-06-08T10:38:54Z" finished-at="2018-06-08T10:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.SignInPageTest -->
+      <class name="ContentStack.PageTest.ContactUsTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.ContactUsTest@c038203]" name="setDriver" is-config="true" duration-ms="8923" started-at="2018-06-08T10:36:58Z" finished-at="2018-06-08T10:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="FillTryForFreeFormTest()[pri:0, instance:ContentStack.PageTest.ContactUsTest@c038203]" name="FillTryForFreeFormTest" duration-ms="6870" started-at="2018-06-08T10:37:06Z" finished-at="2018-06-08T10:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillTryForFreeFormTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.ContactUsTest@c038203]" name="closeBrowser" is-config="true" duration-ms="108" started-at="2018-06-08T10:37:13Z" finished-at="2018-06-08T10:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.ContactUsTest -->
+      <class name="ContentStack.PageTest.ROICalculatorPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.ROICalculatorPageTest@cb5822]" name="setDriver" is-config="true" duration-ms="7314" started-at="2018-06-08T10:38:35Z" finished-at="2018-06-08T10:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="verifyUserCanSelectCheckboxTest()[pri:0, instance:ContentStack.PageTest.ROICalculatorPageTest@cb5822]" name="verifyUserCanSelectCheckboxTest" duration-ms="1984" started-at="2018-06-08T10:38:42Z" finished-at="2018-06-08T10:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanSelectCheckboxTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.ROICalculatorPageTest@cb5822]" name="closeBrowser" is-config="true" duration-ms="64" started-at="2018-06-08T10:38:44Z" finished-at="2018-06-08T10:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.ROICalculatorPageTest -->
+      <class name="ContentStack.PageTest.FeaturePageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.FeaturePageTest@29ee9faa]" name="setDriver" is-config="true" duration-ms="9345" started-at="2018-06-08T10:36:41Z" finished-at="2018-06-08T10:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyFeaturesLinksTest()[pri:0, instance:ContentStack.PageTest.FeaturePageTest@29ee9faa]" name="VerifyFeaturesLinksTest" duration-ms="4271" started-at="2018-06-08T10:36:51Z" finished-at="2018-06-08T10:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFeaturesLinksTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.FeaturePageTest@29ee9faa]" name="closeBrowser" is-config="true" duration-ms="2492" started-at="2018-06-08T10:36:55Z" finished-at="2018-06-08T10:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.FeaturePageTest -->
+      <class name="ContentStack.PageTest.TechnologyPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.TechnologyPageTest@2b98378d]" name="setDriver" is-config="true" duration-ms="9154" started-at="2018-06-08T10:38:54Z" finished-at="2018-06-08T10:39:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="ChooseAndroidLanguageTest()[pri:0, instance:ContentStack.PageTest.TechnologyPageTest@2b98378d]" name="ChooseAndroidLanguageTest" duration-ms="5988" started-at="2018-06-08T10:39:03Z" finished-at="2018-06-08T10:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseAndroidLanguageTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.TechnologyPageTest@2b98378d]" name="closeBrowser" is-config="true" duration-ms="106" started-at="2018-06-08T10:39:09Z" finished-at="2018-06-08T10:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.TechnologyPageTest -->
+      <class name="ContentStack.PageTest.FAQsPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.FAQsPageTest@8bd1b6a]" name="setDriver" is-config="true" duration-ms="9773" started-at="2018-06-08T10:37:58Z" finished-at="2018-06-08T10:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyBrandLogoTest()[pri:0, instance:ContentStack.PageTest.FAQsPageTest@8bd1b6a]" name="VerifyBrandLogoTest" duration-ms="3906" started-at="2018-06-08T10:38:08Z" finished-at="2018-06-08T10:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBrandLogoTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.FAQsPageTest@8bd1b6a]" name="closeBrowser" is-config="true" duration-ms="2104" started-at="2018-06-08T10:38:12Z" finished-at="2018-06-08T10:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.FAQsPageTest@8bd1b6a]" name="setDriver" is-config="true" duration-ms="9053" started-at="2018-06-08T10:38:14Z" finished-at="2018-06-08T10:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyFAQsLinkTest()[pri:0, instance:ContentStack.PageTest.FAQsPageTest@8bd1b6a]" name="VerifyFAQsLinkTest" duration-ms="1904" started-at="2018-06-08T10:38:23Z" finished-at="2018-06-08T10:38:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFAQsLinkTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.FAQsPageTest@8bd1b6a]" name="closeBrowser" is-config="true" duration-ms="52" started-at="2018-06-08T10:38:25Z" finished-at="2018-06-08T10:38:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.FAQsPageTest -->
+      <class name="ContentStack.PageTest.HomepageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="setDriver" is-config="true" duration-ms="25201" started-at="2018-06-08T10:36:16Z" finished-at="2018-06-08T10:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="IsHomepageDisplayed()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="IsHomepageDisplayed" duration-ms="107" started-at="2018-06-08T10:36:41Z" finished-at="2018-06-08T10:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsHomepageDisplayed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="closeBrowser" is-config="true" duration-ms="197" started-at="2018-06-08T10:36:41Z" finished-at="2018-06-08T10:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="setDriver" is-config="true" duration-ms="9046" started-at="2018-06-08T10:39:09Z" finished-at="2018-06-08T10:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyRedircetionOfAllLinksFromHeaderTest()[pri:1, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="VerifyRedircetionOfAllLinksFromHeaderTest" duration-ms="56548" started-at="2018-06-08T10:39:18Z" finished-at="2018-06-08T10:40:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRedircetionOfAllLinksFromHeaderTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="closeBrowser" is-config="true" duration-ms="2081" started-at="2018-06-08T10:40:15Z" finished-at="2018-06-08T10:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="setDriver" is-config="true" duration-ms="7986" started-at="2018-06-08T10:40:17Z" finished-at="2018-06-08T10:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="VerifyFootersLinksDisplayedTest()[pri:2, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="VerifyFootersLinksDisplayedTest" duration-ms="1228" started-at="2018-06-08T10:40:25Z" finished-at="2018-06-08T10:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFootersLinksDisplayedTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.HomepageTest@6767c1fc]" name="closeBrowser" is-config="true" duration-ms="2118" started-at="2018-06-08T10:40:26Z" finished-at="2018-06-08T10:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.HomepageTest -->
+      <class name="ContentStack.PageTest.PricingPageTest">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:ContentStack.PageTest.PricingPageTest@55f3ddb1]" name="setDriver" is-config="true" duration-ms="8642" started-at="2018-06-08T10:37:47Z" finished-at="2018-06-08T10:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="verifyPricingSectionsTest()[pri:0, instance:ContentStack.PageTest.PricingPageTest@55f3ddb1]" name="verifyPricingSectionsTest" duration-ms="2538" started-at="2018-06-08T10:37:55Z" finished-at="2018-06-08T10:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPricingSectionsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ContentStack.PageTest.PricingPageTest@55f3ddb1]" name="closeBrowser" is-config="true" duration-ms="71" started-at="2018-06-08T10:37:58Z" finished-at="2018-06-08T10:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ContentStack.PageTest.PricingPageTest -->
+    </test> <!-- Smoke Test suite -->
+  </suite> <!-- Contentstack -->
+</testng-results>
